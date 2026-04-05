@@ -79,6 +79,15 @@ Technical professional with a background in **Computer Science and Engineering**
 </p>
 
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pgk-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  
+  <p><i>"Turning complex data into clear business decisions."</i></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+</div>
+
+
 <!--
 **goutham2547/goutham2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
