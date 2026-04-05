@@ -18,12 +18,20 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://skillicons.dev/icons?i=js,jquery,html,css,flutter,django,flask,mysql,mongodb" />
 </a>
 </p>
-
 #### 🤖 AI/ML & Data Science
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,tensorflow,pytorch" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+#### 🦜 Frameworks & LLM Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 #### ☁️ Cloud & DevOps
