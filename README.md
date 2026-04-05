@@ -72,8 +72,7 @@ Technical professional with a background in **Computer Science and Engineering**
 
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=2&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=220&section=footer&text=Goutham&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 
