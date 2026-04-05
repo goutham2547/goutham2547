@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=220&section=header&text=Goutham&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=180&section=header&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&repeat=false&color=FFFFFF)](https://git.io/typing-svg)
