@@ -3,7 +3,7 @@
 ---
 
 Technical professional with a background in Computer Science and Engineering, specializing in the practical application of Artificial Intelligence and Data 
-Analytics. I am passionate about distilling complex datasets into actionable business intelligence.
+Analytics. I am passionate about turning complex datasets into clear business decisions.
 
 ---
 
