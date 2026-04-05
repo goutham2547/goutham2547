@@ -8,7 +8,7 @@
 
 ---
 
-### 💫 About Me
+### 💫 About Me ![Focus](https://img.shields.io/badge/Focus-MSc_Business_Analytics-blue?style=flat-square)
 Technical professional with a background in **Computer Science and Engineering**, specializing in the practical application of **Artificial Intelligence** and **Data Science**. I am passionate about bridging the gap between complex datasets and strategic business intelligence.
 
 ---
