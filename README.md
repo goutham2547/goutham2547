@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&repeat=false&color=FFFFFF)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Professional+%7c+Aspiring+Business+Analyst+with+knowledge+in+AI%2FML&repeat=false&multiline=false&width=1200&color=FFFFFF)](https://git.io/typing-svg)
 ---
-Technical professional with a background in Computer Science and Engineering, specializing in the practical application of Artificial Intelligence and Data Analytics. I am passionate about distilling complex datasets into actionable business intelligence.
+
+Technical professional with a background in Computer Science and Engineering, specializing in the practical application of Artificial Intelligence and Data 
+Analytics. I am passionate about distilling complex datasets into actionable business intelligence.
+
 ---
 
 Languages and Tools:
