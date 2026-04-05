@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+### 🎯 About Me
 Technical professional with a background in **Computer Science and Engineering**, specializing in the practical application of **Artificial Intelligence** and **Data Science**. I am passionate about bridging the gap between complex datasets and strategic business intelligence.
 
 ---
