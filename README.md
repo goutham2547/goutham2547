@@ -73,7 +73,7 @@ Technical professional with a background in **Computer Science and Engineering**
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=2&section=footer" width="100%" />
 </div>
 
 
