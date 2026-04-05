@@ -10,7 +10,7 @@ Technical professional with a background in Computer Science and Engineering, sp
 
 Languages and Tools:
 
-HTML5 CSS3 Python C C++ git GitHub
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 <!--
