@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&repeat=false&color=#FFFFFF)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Professional+%7c+Aspiring+Business+Analyst+with+knowledge+in+AI%2FML&repeat=false&multiline=false&&width=1200)](https://git.io/typing-svg)
 ---
