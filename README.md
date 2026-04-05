@@ -15,7 +15,7 @@ Technical professional with a background in **Computer Science and Engineering**
 #### 🌐 Web Development & Databases
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,jquery,html,css,nodejs,django,flask,express,mysql,mongodb,postgres,nextjs,react" />
+  <img src="https://skillicons.dev/icons?i=js,jquery,html,css,flutter,django,flask,mysql,mongodb" />
 </a>
 </p>
 
@@ -29,7 +29,7 @@ Technical professional with a background in **Computer Science and Engineering**
 #### ☁️ Cloud & DevOps
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 </a>
 </p>
 
