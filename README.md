@@ -8,9 +8,7 @@ Analytics. I am passionate about turning complex datasets into clear business de
 
 ---
 
-Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,anaconda,c,cpp,css,flask,github,html,java,js,latex,docker,mysql,opencv,aws,py,replit,tensorflow,vscode,cuda,&perline=7)](https://skillicons.dev)
+**Languages and Tools**:
 
 <div align="center">
 
