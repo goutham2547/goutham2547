@@ -12,6 +12,14 @@ Technical professional with a background in **Computer Science and Engineering**
 
 ### 🛠️ Tech Stack & Tools
 
+#### ⌨️ Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 #### 🌐 Web Development & Databases
 <p align="left">
 <a href="https://skillicons.dev">
