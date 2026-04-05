@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=220&section=header&text=Goutham%20Kumar%20Punati&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&multiline=true&lines=Computer+Science+Professional;AI+%2F+ML+Researcher;Aspiring+Business+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&multiline=true&lines=Computer+Science+Professional;AI+%2F+ML+Enthusiast;Aspiring+Business+Analyst" alt="Typing SVG" />
 
   <br />
 </div>
