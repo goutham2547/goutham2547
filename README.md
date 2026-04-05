@@ -46,7 +46,6 @@ Analytics. I am passionate about turning complex datasets into clear business de
       <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br/>GCP</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
     </tr>
-
   <br />
 
   <h3>AI/ML & Data Science</h3>
