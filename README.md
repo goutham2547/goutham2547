@@ -9,7 +9,7 @@ Languages and Tools:
 
 HTML5 CSS3 Python C C++ git GitHub
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋;Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&pause=1000;Business+Analyst)](https://git.io/typing-svg)
 
 <!--
 **goutham2547/goutham2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
