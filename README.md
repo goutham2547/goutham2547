@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&multiline=true&lines=Computer+Science+Professional;AI+%2F+ML+Researcher;Aspiring+Business+Analyst" alt="Typing SVG" />
 
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=goutham2547&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Goutham's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutham2547&theme=tokyonight&hide_border=true" alt="Goutham's Streak" />
 </div>
 
 ---
