@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Goutham👋
+**Computer Science Professional | AI/ML Researcher | Aspiring Business Analyst**
+
+Technical professional with a background in Computer Science and Engineering, specializing in the practical application of Artificial Intelligence and Data Analytics. I am passionate about distilling complex datasets into actionable business intelligence.
+
+---
 
 <!--
 **goutham2547/goutham2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
