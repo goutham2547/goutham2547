@@ -5,6 +5,10 @@ Technical professional with a background in Computer Science and Engineering, sp
 
 ---
 
+Languages and Tools:
+
+HTML5 CSS3 Python C C++ git GitHub
+
 <!--
 **goutham2547/goutham2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
