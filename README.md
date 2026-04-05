@@ -16,10 +16,6 @@ Analytics. I am passionate about turning complex datasets into clear business de
   <table width="100%">
     <tr><td align="center" colspan="8"><b>Frontend</b></td></tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br/>jQuery</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5</td>
@@ -27,17 +23,13 @@ Analytics. I am passionate about turning complex datasets into clear business de
     </tr>
     <tr><td align="center" colspan="8"><b>Backend</b></td></tr>
     <tr>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
       <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=django" width="40"/><br/>Django</td>
       <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br/>Flask</td>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
     </tr>
     <tr><td align="center" colspan="8"><b>Database</b></td></tr>
     <tr>
       <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
       <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL</td>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=neo4j" width="40"/><br/>Neo4j</td>
     </tr>
   </table>
 
@@ -48,23 +40,12 @@ Analytics. I am passionate about turning complex datasets into clear business de
     <tr><td align="center" colspan="4"><b>Containerization & Orchestration</b></td></tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br/>Kubernetes</td>
-      <td align="center"><img src="https://api.iconify.design/logos:helm.svg" width="40"/><br/>Helm</td>
-      <td align="center"><img src="https://api.iconify.design/logos:skaffold-icon.svg" width="40"/><br/>Skaffold</td>
     </tr>
     <tr><td align="center" colspan="4"><b>Cloud Providers</b></td></tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br/>Azure</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br/>GCP</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
-      <td align="center"><img src="https://api.iconify.design/logos:oracle.svg" width="40"/><br/>Oracle Cloud</td>
     </tr>
-    <tr><td align="center" colspan="4"><b>Infrastructure as Code</b></td></tr>
-    <tr>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=terraform" width="40"/><br/>Terraform</td>
-      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/>Ansible</td>
-    </tr>
-  </table>
 
   <br />
 
@@ -97,7 +78,6 @@ Analytics. I am passionate about turning complex datasets into clear business de
       <td align="center"><img src="https://api.iconify.design/logos:google-gemini.svg" width="40"/><br/>Gemini</td>
       <td align="center">🤗<br/>Hugging Face</td>
       <td align="center"><img src="https://api.iconify.design/logos:meta-icon.svg" width="40"/><br/>Meta Llama</td>
-      <td align="center"><b>cohere</b><br/>Cohere</td>
     </tr>
   </table>
 
