@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=220&section=header&text=Goutham%20Kumar%20Punati&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=180&section=header&text=Goutham%20Kumar%20Punati&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&multiline=true&repeat=false&lines=Computer+Science+Professional;AI+%2F+ML+Enthusiast;Aspiring+Business+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&multiline=true&repeat=false&lines=Computer+Science+Professional;AI+%2F+ML+Enthusiast;Aspiring+Business+Analyst" alt="Typing SVG" />
 
   <br />
 </div>
