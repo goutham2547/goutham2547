@@ -56,6 +56,7 @@ Technical professional with a background in **Computer Science and Engineering**
 </p>
 
 ---
+<br>
 <div align="center">
   <p><i>"Turning complex data into clear business decisions."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&customColorList=11&section=footer" width="100%" />
