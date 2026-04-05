@@ -72,9 +72,6 @@ Technical professional with a background in **Computer Science and Engineering**
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pgk-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
-  
-  <p><i>"Turning complex data into clear business decisions."</i></p>
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
 </div>
