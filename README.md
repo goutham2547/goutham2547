@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Goutham+👋&repeat=false)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&repeat=false&width=435&lines=Computer+Science+Professional+%7C+Aspiring+Business+Analyst+with+knowledge+in+AI%2FML" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Professional+%7C+Aspiring+Business+Analyst+with+knowledge+in+AI%2FML&repeat=false)](https://git.io/typing-svg)
 **Computer Science Professional | Aspiring Business Analyst with knowledge in AI/ML**
 
 Technical professional with a background in Computer Science and Engineering, specializing in the practical application of Artificial Intelligence and Data Analytics. I am passionate about distilling complex datasets into actionable business intelligence.
