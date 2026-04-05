@@ -8,29 +8,30 @@ Technical professional with a background in **Computer Science and Engineering**
 
 ---
 
-### 🛠️ Languages and Tools
+---
 
-#### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Web Development & Databases
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,jquery,html,css,nodejs,django,flask,express,mysql,mongodb,postgres,nextjs,react" />
+</a>
+</p>
 
 #### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,tensorflow,pytorch" />
+</a>
+</p>
 
 #### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible" />
+</a>
+</p>
 
 
 <!--
