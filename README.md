@@ -26,6 +26,7 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://skillicons.dev/icons?i=js,jquery,html,css,flutter,django,flask,mysql,mongodb" />
 </a>
 </p>
+
 #### 🧪 Data Science & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
