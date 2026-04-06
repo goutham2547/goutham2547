@@ -47,7 +47,7 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/130722866?s=48&v=4&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/OpenAI-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/LlamaIndex-%231C3C3C.svg?style=for-the-badge&logo=llamaindex&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LlamaIndex-%231C3C3C.svg?style=for-the-badge&logo=llamaindex&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" /></a>
 </p>
 
