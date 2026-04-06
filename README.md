@@ -65,6 +65,7 @@ Technical professional with a background in **Computer Science and Engineering**
 * **[PhysX](https://github.com/NVIDIAGameWorks/PhysX) & [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)**: Contributed to the industry-standard physics engine. Focused on core simulation stability and performance optimizations for real-time environments.
 * **[VolumetricLighting](https://github.com/NVIDIAGameWorks/VolumetricLighting)**: Enhanced advanced lighting effects (God rays/light shafts) for high-fidelity 3D rendering pipelines.
 * **[UnityPhysXPlugin](https://github.com/NVIDIAGameWorks/UnityPhysXPlugin)**: Worked on bridging high-performance C++ physics with the Unity Engine for seamless developer integration.
+  <br>
 
 ---
 <br>
