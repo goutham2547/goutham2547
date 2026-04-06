@@ -48,11 +48,14 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" /></a>
+  <a href="https://www.llamaindex.ai/">
+    <img src="https://avatars.githubusercontent.com/u/130722866?s=48&v=4" height="28" alt="LlamaIndex" />
+  </a>
 </p>
 
 #### ✍️ Prompt Engineering & AI Agents
 <p align="left">
-  <img src="https://a11ybadges.com/badge?logo=openai-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://a11ybadges.com/badge?logo=openai-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white&height='28'" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta_Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white" />
