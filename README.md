@@ -53,7 +53,7 @@ Technical professional with a background in **Computer Science and Engineering**
 
 #### ✍️ Prompt Engineering & AI Agents
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://a11ybadges.com/badge?logo=openai-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta_Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white" />
