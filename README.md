@@ -58,7 +58,6 @@ Technical professional with a background in **Computer Science and Engineering**
 </p>
 
 <br>
-<br>
 
 ---
 
