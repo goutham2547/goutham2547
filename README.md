@@ -66,9 +66,9 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-* **[PhysX](https://github.com/NVIDIAGameWorks/PhysX) & [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)**: Contributed to the industry-standard physics engine. Focused on core simulation stability and performance optimizations for real-time environments.
+* **[PhysX](https://github.com/NVIDIAGameWorks/PhysX) & [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)**: Contributed to their standard physics engine. Focused on performance optimizations for real-time collision environments.
 * **[VolumetricLighting](https://github.com/NVIDIAGameWorks/VolumetricLighting)**: Enhanced advanced lighting effects (God rays/light shafts) for high-fidelity 3D rendering pipelines.
-* **[UnityPhysXPlugin](https://github.com/NVIDIAGameWorks/UnityPhysXPlugin)**: Worked on bridging high-performance C++ physics with the Unity Engine for seamless developer integration.
+* **[UnityPhysXPlugin](https://github.com/NVIDIAGameWorks/UnityPhysXPlugin)**: Worked on bridging high-performance C++ physics with the Unity Engine.
   <br>
   <br>
   <br>
