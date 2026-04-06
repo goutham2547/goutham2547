@@ -61,7 +61,7 @@ Technical professional with a background in **Computer Science and Engineering**
 
 ---
 
-### 🟢 Open Source Contributions @ NVIDIA
+### 🟢 Open Source Contributions @ NVIDIA GameWorks
 <p align="left">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
