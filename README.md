@@ -45,16 +45,15 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />
-    
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" /></a>
 </p>
 
 #### ✍️ Prompt Engineering & AI Agents
 <p align="left">
   <img src="https://a11ybadges.com/badge?logo=openai-%2310a37f.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta_Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
