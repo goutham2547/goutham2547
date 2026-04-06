@@ -57,6 +57,9 @@ Technical professional with a background in **Computer Science and Engineering**
   <img src="https://img.shields.io/badge/Meta_Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
+<br>
+<br>
+
 ### 🟢 Open Source Contributions @ NVIDIA
 <p align="left">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
