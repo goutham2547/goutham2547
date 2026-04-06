@@ -66,6 +66,8 @@ Technical professional with a background in **Computer Science and Engineering**
 * **[VolumetricLighting](https://github.com/NVIDIAGameWorks/VolumetricLighting)**: Enhanced advanced lighting effects (God rays/light shafts) for high-fidelity 3D rendering pipelines.
 * **[UnityPhysXPlugin](https://github.com/NVIDIAGameWorks/UnityPhysXPlugin)**: Worked on bridging high-performance C++ physics with the Unity Engine for seamless developer integration.
   <br>
+  <br>
+  <br>
 
 ---
 <br>
